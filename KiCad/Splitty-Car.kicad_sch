@@ -2191,8 +2191,8 @@
 		(uuid "2d01fc1c-d49e-416e-9549-14fb6d8635c8")
 	)
 	(rectangle
-		(start 187.96 45.72)
-		(end 213.36 114.3)
+		(start 186.69 45.72)
+		(end 212.09 114.3)
 		(stroke
 			(width 0)
 			(type dash)
@@ -2244,7 +2244,7 @@
 	)
 	(text "1A Combined Total"
 		(exclude_from_sim no)
-		(at 197.866 48.006 0)
+		(at 196.596 48.006 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2254,7 +2254,7 @@
 	)
 	(text "Green\nDC Out Enabled"
 		(exclude_from_sim no)
-		(at 179.324 54.61 0)
+		(at 177.8 54.61 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2291,7 +2291,7 @@
 		(uuid "09fa0623-f0eb-4583-bf2e-096fafa03018")
 	)
 	(junction
-		(at 190.5 78.74)
+		(at 189.23 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0bbcdb77-396f-401a-a45d-8776407c2891")
@@ -2363,7 +2363,7 @@
 		(uuid "5896381d-0b0c-4d9b-9962-f90157101548")
 	)
 	(junction
-		(at 190.5 95.25)
+		(at 189.23 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "725ae8d3-d0ff-4cc2-a5d9-9f6a51ce0f43")
@@ -2387,7 +2387,13 @@
 		(uuid "915f10f6-0e21-4d80-a31f-db65ed9bc974")
 	)
 	(junction
-		(at 190.5 88.9)
+		(at 181.61 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "97f4f837-d3b2-459f-aa13-c5466a8e7866")
+	)
+	(junction
+		(at 189.23 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9826def1-b83c-410f-ae2e-e1e2f44a4f46")
@@ -2405,12 +2411,6 @@
 		(uuid "a4b616a7-7855-4c16-872c-2e21369608a3")
 	)
 	(junction
-		(at 185.42 88.9)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bc1853b2-41b1-442e-89f5-bcfd862e70b2")
-	)
-	(junction
 		(at 135.89 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2423,13 +2423,13 @@
 		(uuid "c2a3d1d2-6883-4326-a020-75acccdd855f")
 	)
 	(junction
-		(at 189.23 90.17)
+		(at 187.96 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c6bc2256-4a44-45bb-8ec3-c57b84536da1")
 	)
 	(junction
-		(at 189.23 73.66)
+		(at 187.96 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c8ee382e-ccc0-4666-8740-9e65cf7b654e")
@@ -2512,7 +2512,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 78.74) (xy 190.5 62.23)
+			(xy 189.23 78.74) (xy 189.23 62.23)
 		)
 		(stroke
 			(width 0)
@@ -2572,7 +2572,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 111.76) (xy 190.5 111.76)
+			(xy 198.12 111.76) (xy 189.23 111.76)
 		)
 		(stroke
 			(width 0)
@@ -2642,7 +2642,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 57.15) (xy 199.39 57.15)
+			(xy 187.96 57.15) (xy 198.12 57.15)
 		)
 		(stroke
 			(width 0)
@@ -2662,7 +2662,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 73.66) (xy 189.23 57.15)
+			(xy 187.96 73.66) (xy 187.96 57.15)
 		)
 		(stroke
 			(width 0)
@@ -2692,7 +2692,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 88.9) (xy 173.99 88.9)
+			(xy 181.61 88.9) (xy 189.23 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2712,7 +2712,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 90.17) (xy 199.39 90.17)
+			(xy 187.96 90.17) (xy 198.12 90.17)
 		)
 		(stroke
 			(width 0)
@@ -2782,7 +2782,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 90.17) (xy 189.23 106.68)
+			(xy 187.96 90.17) (xy 187.96 106.68)
 		)
 		(stroke
 			(width 0)
@@ -2832,7 +2832,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 73.66) (xy 189.23 73.66)
+			(xy 173.99 73.66) (xy 187.96 73.66)
 		)
 		(stroke
 			(width 0)
@@ -2872,7 +2872,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 57.15) (xy 185.42 57.15)
+			(xy 173.99 57.15) (xy 181.61 57.15)
 		)
 		(stroke
 			(width 0)
@@ -2912,7 +2912,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 111.76) (xy 190.5 95.25)
+			(xy 189.23 111.76) (xy 189.23 95.25)
 		)
 		(stroke
 			(width 0)
@@ -3002,16 +3002,6 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 88.9) (xy 190.5 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7dbf1c1e-c76e-46d8-910b-d171806d03a7")
-	)
-	(wire
-		(pts
 			(xy 149.86 102.87) (xy 167.64 102.87)
 		)
 		(stroke
@@ -3032,7 +3022,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 106.68) (xy 199.39 106.68)
+			(xy 187.96 106.68) (xy 198.12 106.68)
 		)
 		(stroke
 			(width 0)
@@ -3052,7 +3042,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 62.23) (xy 199.39 62.23)
+			(xy 189.23 62.23) (xy 198.12 62.23)
 		)
 		(stroke
 			(width 0)
@@ -3102,13 +3092,23 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 78.74) (xy 199.39 78.74)
+			(xy 189.23 78.74) (xy 198.12 78.74)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "9bf70941-f806-4081-999f-7ef4ce3ea12d")
+	)
+	(wire
+		(pts
+			(xy 181.61 88.9) (xy 173.99 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c17f4cf-571f-48fe-aef9-9e9a97b2b9ef")
 	)
 	(wire
 		(pts
@@ -3132,7 +3132,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 95.25) (xy 199.39 95.25)
+			(xy 189.23 95.25) (xy 198.12 95.25)
 		)
 		(stroke
 			(width 0)
@@ -3172,7 +3172,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 73.66) (xy 189.23 90.17)
+			(xy 187.96 73.66) (xy 187.96 90.17)
 		)
 		(stroke
 			(width 0)
@@ -3212,7 +3212,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 57.15) (xy 185.42 88.9)
+			(xy 181.61 57.15) (xy 181.61 88.9)
 		)
 		(stroke
 			(width 0)
@@ -3372,7 +3372,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 88.9) (xy 190.5 95.25)
+			(xy 189.23 88.9) (xy 189.23 95.25)
 		)
 		(stroke
 			(width 0)
@@ -3412,7 +3412,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 78.74) (xy 190.5 88.9)
+			(xy 189.23 78.74) (xy 189.23 88.9)
 		)
 		(stroke
 			(width 0)
@@ -3422,7 +3422,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 73.66) (xy 199.39 73.66)
+			(xy 187.96 73.66) (xy 198.12 73.66)
 		)
 		(stroke
 			(width 0)
@@ -3964,7 +3964,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Jack-DC")
-		(at 207.01 92.71 0)
+		(at 205.74 92.71 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -3975,7 +3975,7 @@
 		(dnp no)
 		(uuid "49baf332-4f9b-4653-98c9-258aa44fa438")
 		(property "Reference" "J14"
-			(at 207.01 83.82 0)
+			(at 205.74 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3985,7 +3985,7 @@
 			)
 		)
 		(property "Value" "DC Out C"
-			(at 207.01 86.36 0)
+			(at 205.74 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3995,7 +3995,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 205.74 93.726 0)
+			(at 204.47 93.726 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4006,7 +4006,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 93.726 0)
+			(at 204.47 93.726 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4017,7 +4017,7 @@
 			)
 		)
 		(property "Description" "DC Barrel Jack"
-			(at 207.01 92.71 0)
+			(at 205.74 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4222,7 +4222,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Jack-DC")
-		(at 207.01 109.22 0)
+		(at 205.74 109.22 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -4233,7 +4233,7 @@
 		(dnp no)
 		(uuid "66d5e107-538d-47fd-bcf7-95dfd4f40e98")
 		(property "Reference" "J15"
-			(at 207.01 100.33 0)
+			(at 205.74 100.33 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4243,7 +4243,7 @@
 			)
 		)
 		(property "Value" "DC Out D"
-			(at 207.01 102.87 0)
+			(at 205.74 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4253,7 +4253,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 205.74 110.236 0)
+			(at 204.47 110.236 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4264,7 +4264,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 110.236 0)
+			(at 204.47 110.236 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4275,7 +4275,7 @@
 			)
 		)
 		(property "Description" "DC Barrel Jack"
-			(at 207.01 109.22 0)
+			(at 205.74 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4302,7 +4302,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Jack-DC")
-		(at 207.01 76.2 0)
+		(at 205.74 76.2 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -4313,7 +4313,7 @@
 		(dnp no)
 		(uuid "77d6d25a-e095-4e4d-a24f-9dd2ca35408b")
 		(property "Reference" "J13"
-			(at 207.01 67.31 0)
+			(at 205.74 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4323,7 +4323,7 @@
 			)
 		)
 		(property "Value" "DC Out B"
-			(at 207.01 69.85 0)
+			(at 205.74 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4333,7 +4333,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 205.74 77.216 0)
+			(at 204.47 77.216 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4344,7 +4344,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 77.216 0)
+			(at 204.47 77.216 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4355,7 +4355,7 @@
 			)
 		)
 		(property "Description" "DC Barrel Jack"
-			(at 207.01 76.2 0)
+			(at 205.74 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4564,7 +4564,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Jack-DC")
-		(at 207.01 59.69 0)
+		(at 205.74 59.69 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -4575,7 +4575,7 @@
 		(dnp no)
 		(uuid "8e5f1b9c-ca6e-4d50-a264-6761507c0fcc")
 		(property "Reference" "J11"
-			(at 207.01 50.8 0)
+			(at 205.74 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4585,7 +4585,7 @@
 			)
 		)
 		(property "Value" "DC Out A"
-			(at 207.01 53.34 0)
+			(at 205.74 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4595,7 +4595,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 205.74 60.706 0)
+			(at 204.47 60.706 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4606,7 +4606,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 60.706 0)
+			(at 204.47 60.706 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4617,7 +4617,7 @@
 			)
 		)
 		(property "Description" "DC Barrel Jack"
-			(at 207.01 59.69 0)
+			(at 205.74 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
